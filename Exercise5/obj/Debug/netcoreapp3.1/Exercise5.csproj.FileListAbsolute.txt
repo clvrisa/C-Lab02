@@ -1,0 +1,12 @@
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csprojAssemblyReference.cache
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfoInputs.cache
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.AssemblyInfo.cs
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csproj.CoreCompileInputs.cache
+/Users/clarisaxz/Projects/Lab2/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.deps.json
+/Users/clarisaxz/Projects/Lab2/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.json
+/Users/clarisaxz/Projects/Lab2/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.runtimeconfig.dev.json
+/Users/clarisaxz/Projects/Lab2/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.dll
+/Users/clarisaxz/Projects/Lab2/Exercise5/bin/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.dll
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.pdb
+/Users/clarisaxz/Projects/Lab2/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.genruntimeconfig.cache

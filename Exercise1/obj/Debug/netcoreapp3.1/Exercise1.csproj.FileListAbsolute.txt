@@ -1,0 +1,12 @@
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.csprojAssemblyReference.cache
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.AssemblyInfoInputs.cache
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.AssemblyInfo.cs
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.csproj.CoreCompileInputs.cache
+/Users/clarisaxz/Projects/Lab2/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.deps.json
+/Users/clarisaxz/Projects/Lab2/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.runtimeconfig.json
+/Users/clarisaxz/Projects/Lab2/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.runtimeconfig.dev.json
+/Users/clarisaxz/Projects/Lab2/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.dll
+/Users/clarisaxz/Projects/Lab2/Exercise1/bin/Debug/netcoreapp3.1/Exercise1.pdb
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.dll
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.pdb
+/Users/clarisaxz/Projects/Lab2/Exercise1/obj/Debug/netcoreapp3.1/Exercise1.genruntimeconfig.cache
